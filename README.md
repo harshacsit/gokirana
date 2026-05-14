@@ -32,7 +32,8 @@ I also added full Telugu language support because most kirana owners in Andhra P
 
 
 | Home | analytics | stock | settings |
-|-------|------|-------|-----------|
+|-------|------|-------|
+-----------|
 | <img src="screenshots/home.jpeg" width="250"/> |<img src="screenshots/analytics.jpeg" width="250"/> | <img src="screenshots/stock.jpeg" width="250"/>
 | <img src="screenshots/settings.jpeg" width="250"/> |
 
