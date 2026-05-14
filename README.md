@@ -32,11 +32,11 @@ I also added full Telugu language support because most kirana owners in Andhra P
 
 > Add your own screenshots here after building the app
 
-| Login | Home | Stock | Analytics |
-|-------|------|-------|-----------|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
-
----
+| settings| Home | Stock | Analytics |
+<img src="screenshots/settings.jpeg" width="250"/>
+<img src="screenshots/analytics.jpeg" width="250"/>
+<img src="screenshots/home.jpeg" width="250"/>
+<img src="screenshots/stock.jpeg" width="250"/>
 
 ## Tech Stack
 
