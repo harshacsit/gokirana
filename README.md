@@ -205,5 +205,7 @@ This project is for educational purposes. Feel free to use it as reference.
 ## Contact
 
 Built by **Harsha**
+contact: harshavardhan_csit@srkrec.edu.in
+linkdin: eudu harsha vardhan
 
 If you find a bug or have a suggestion, use the feedback option inside the app or open an issue here on GitHub.
