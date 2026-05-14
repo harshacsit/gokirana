@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858641592513",
+    "project_id": "kiranamanager-12bf7",
+    "storage_bucket": "kiranamanager-12bf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858641592513:android:82e344194c243697c8a440",
+        "android_client_info": {
+          "package_name": "com.harsha.kirana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3nbx8Lb6V7HuysRG6ceKZay170AXGhK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

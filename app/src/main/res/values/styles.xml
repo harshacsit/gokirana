@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KiranaManager" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">#EEF4FF</item>
+        <item name="android:statusBarColor">#1A73E8</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="colorPrimary">#1A73E8</item>
+        <item name="colorAccent">#1A73E8</item>
+    </style>
+</resources>
